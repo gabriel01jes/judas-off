@@ -1,11 +1,9 @@
-/* Resetando alguns estilos básicos */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Definindo as cores principais */
 body {
     background-color: #2C2C2C;
     color: #F1F1F1;
